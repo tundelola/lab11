@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\PersonProj\PersonProj\bin\Debug\PersonProj.exe.config
+c:\users\user\documents\visual studio 2015\Projects\PersonProj\PersonProj\obj\Debug\PersonProj.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\PersonProj\PersonProj\bin\Debug\PersonProj.exe
+c:\users\user\documents\visual studio 2015\Projects\PersonProj\PersonProj\bin\Debug\PersonProj.pdb
+c:\users\user\documents\visual studio 2015\Projects\PersonProj\PersonProj\obj\Debug\PersonProj.exe
+c:\users\user\documents\visual studio 2015\Projects\PersonProj\PersonProj\obj\Debug\PersonProj.pdb
